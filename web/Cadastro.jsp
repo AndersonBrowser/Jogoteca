@@ -12,6 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
+        <form action="Cadastrar.jsp">
     <fieldset>
                 <legend>Tela de Cadastro:</legend>    
                 <table>
@@ -27,5 +28,6 @@
                         <td><input type="reset" value="Limpar"/></td></tr>
                 </table>
             </fieldset>
+          </form>  
     </body>
 </html>
